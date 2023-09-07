@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "386b8bf1f714fe2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db25c80ad91e7b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1a8e421bda908b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "514a6ad4bb285651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Law/CLU3M0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c774392027ee2275",
+    "type": "split",
+    "children": [
+      {
+        "id": "db297e979a6fa8d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036005a1a9781fb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fa61507e0380862",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "C:\\Users\\Ryan\\Documents\\FNAR",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6897602b76f663d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "dac107d20ebd8170",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b62df74814f15df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d5560bf825fee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e10fd44be42f72f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Law/CLU3M0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba31a1a6947f4c45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Law/CLU3M0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "524c18d574304f1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fefa5fc0ac7ff499",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Law/CLU3M0.md"
+              }
+            }
+          },
+          {
+            "id": "b2979fece3f28845",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "036005a1a9781fb7",
+  "lastOpenFiles": [
+    "Law/CLU3M0.md",
+    "Law",
+    "Chemistry",
+    "Biology",
+    "Science/Physics/Optics_SNC2D0.md",
+    "Science/Physics/Concave_Mirror_Table.png",
+    "Science/Physics/ElectroMagnetic_Spectrum.png",
+    "History/WW2/WW2_CHC2D0.md",
+    "History/WW2/Auschwitz.jpeg",
+    "History/WW2/Jewish_Ghetto.jpg",
+    "Science/Physics/Wave.png",
+    "Science/Physics",
+    "History/WW2/Oven.jpeg",
+    "History/WW2/Shower.jpeg",
+    "History/WW2/Concentration_Camp.jpg",
+    "History/WW2/Kristallnacht.jpg",
+    "Science/Biology/Pneumonia.md",
+    "Science/Biology/Biology_SNC2D0.md",
+    "Science/Chemistry/Chemistry_SNC2D0.md",
+    "History/WW2/Blitzkrieg.png",
+    "Science/Biology/To-Do.md",
+    "History/WW2",
+    "README.md",
+    "Science/Biology/Heart.webp.crdownload",
+    "History/1930/1930_CHC2D0.md",
+    "Science/Biology/Muscle_Fibers.jpg.crdownload",
+    "History/README.md",
+    "Science/README.md",
+    "History/1930",
+    "History/Untitled",
+    "History",
+    "Prokaryotes-Eukaryotes.jpg.md",
+    "Biology/Untitled.md",
+    "Science/Chemistry_SNC2D0.md",
+    "Chemistry.md",
+    "Bohr.md",
+    "Untitled.canvas",
+    "2023-03-16.md"
+  ]
+}
