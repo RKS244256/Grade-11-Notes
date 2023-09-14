@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5db25c80ad91e7b7",
+        "id": "6f28858a41b5bc87",
         "type": "tabs",
         "children": [
           {
-            "id": "cf1a8e421bda908b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "514a6ad4bb285651",
+            "id": "5549c4734356bbfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law/CLU3M0.md",
+                "file": "Chemistry/SCH3U0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law/CLU3M0.md",
+                "file": "Chemistry/SCH3U0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law/CLU3M0.md",
+                "file": "Chemistry/SCH3U0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Law/CLU3M0.md"
+                "file": "Chemistry/SCH3U0.md"
               }
             }
           },
@@ -152,6 +143,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "1041b955def3d35a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -177,7 +178,16 @@
   },
   "active": "036005a1a9781fb7",
   "lastOpenFiles": [
+    "Chemistry/Mass_Spectrometer_Diagram.png",
+    "Chemistry/Standard_Notation.png",
+    "Biology/SBI3UO.md",
+    "Biology/Pedigree.png",
+    "Pasted image 20230913192617.png",
+    "Biology/Chromosome_Pair.png",
+    "Biology/Pasted image 20230911103835 1.png",
+    "Pasted.md",
     "Law/CLU3M0.md",
+    "Chemistry/SCH3U0.md",
     "Law",
     "Chemistry",
     "Biology",
@@ -189,14 +199,9 @@
     "History/WW2/Jewish_Ghetto.jpg",
     "Science/Physics/Wave.png",
     "Science/Physics",
-    "History/WW2/Oven.jpeg",
-    "History/WW2/Shower.jpeg",
-    "History/WW2/Concentration_Camp.jpg",
-    "History/WW2/Kristallnacht.jpg",
     "Science/Biology/Pneumonia.md",
     "Science/Biology/Biology_SNC2D0.md",
     "Science/Chemistry/Chemistry_SNC2D0.md",
-    "History/WW2/Blitzkrieg.png",
     "Science/Biology/To-Do.md",
     "History/WW2",
     "README.md",
@@ -209,7 +214,6 @@
     "History/Untitled",
     "History",
     "Prokaryotes-Eukaryotes.jpg.md",
-    "Biology/Untitled.md",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",
     "Bohr.md",
