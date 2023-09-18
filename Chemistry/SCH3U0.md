@@ -152,22 +152,217 @@ Marie and Pierre Curie discovered and isolated radium and polonium in the early 
 Polonium Alpha Decay
 Po-218 -> Pb-214 + He-4*
 
-### Radioisotopes
+### Radioisotopes & Nuclear Decay
 
 Not all elements are stable. Radioisotopes decay and emit radiation (those being alpha and beta particles and gamma rays) due to nuclear changes. This obviously makes them radioactive.
 
+#### What Makes An Atom Unstable?
+
+![](Stable_Nuclei.png)
+
+If ratio of neutrons and protons falls on the red line, an atom is considered stable. If not, depending on the ratio, it may either perform beta or alpha decay. 
 #### Half-life
 
-Half-life is a unique characteristic of radioisotopes. It's the time it takes for one half the nuclei in a radioactive sample to decay.
+Half-life is a unique characteristic of radioisotopes. It's the time it takes for one half the nuclei in a radioactive sample to decay. 
+
+1 half life is half of a sample, 2 half lives are a quarter of a sample and so on and so forth. 
+
+The equation to calculate the remaining sample after half lives is:
+```
+(1/2)^half_lives * initial_sample_size
+```
+
 
 *Example
 Carbon-14's half life is 5730 years (a.)*
 
 #### Types of Decay
 
-*Alpha decay* - Low energy radiation which can simply be stopped by paper or cloth.
+*Alpha decay* - Low energy radiation which can simply be stopped by paper or cloth. An unstable isotope ejects an alpha particle from its nucleus.
 
-*Beta decay* - Radiation which releases an election and can be stopped by aluminum foil or skin.
+*Beta decay* - Radiation which releases an election and can be stopped by aluminum foil or skin. Neutron is converted into a proton and electron.
 
 *Gamma decay* - Radiation which can mutate DNA and is just energy. It can penetrate skin and cells. (Very bad stuff)
 
+## Bohr Rutherford
+
+### Neils Bohr
+- Born in Copenhagen, Denmark
+- Worked with Ernst Rutherford in England
+- Nobel Laureate in 1922
+- Served as a consultant at Los Alamos for the atomic bomb project
+- Organized a conference of Scientists and Politicians to control the spread of nuclear weapons internationally
+
+### Intro to Bohr's Ideas
+
+Rutherford theorized electrons orbit the nucleus. However, the laws of physics state that electrons should give off energy, slow down, and collapse into the nucleus. Therefore, Rutherford's model needed to be modified, Bohr used light and spectra to analyze atomic structure. Bohr chose to experiment with hydrogen because it's the simplest atom, has one electron in it's structure & has one simple line spectrum.
+
+### Bohr's Experimentation
+
+Bohr passed an electric current through H<sup>2</sup> to force electrons into a higher energy state. A line spectrum is produced as atoms emit a characteristic set of discrete wave lengths.
+
+![](Hydrogen_Line_Spectrum.png)
+
+The lines suggest electrons travel at different orbits of fixed energy. In simpler terms, electrons orbit at a constant distance from the nucleus and don't move unless forced to. 
+
+### Electron Quantization
+
+If an electron is quantized, it means that the electron has a specific amount of energy.
+
+If an electron was like a ball on a staircase, the ball could only be found on a step and never between steps. This is just like an electron which can only be found at specific energy levels and never in between. 
+
+Another analogy is the turtle. A turtle sitting on a staircase can only take on certain discrete energies. Energy is required to move the turtle up (absorption) and some energy is released to move down (emission). 
+
+### Why are there multiple lines in the line spectrum for Hydrogen?
+
+An atom at ground state has its electrons at the lowest energy levels. However, when charged with energy (electricity/heat), electrons jump to higher energy levels. They will eventually fall back down and release energy as they drop. The energy released is equal to energy absorbed which is emitted as the colors we see with a spectroscope. The colors represent the amount of energy released.
+
+### Pros & Cons of the Bohr Model
+
+#### Pros:
+- Explains why atoms are stable and electrons don't crash into the nucleus
+- Explains the line spectrum of elements as energized elements give off light with specific wavelengths as electrons transition between energy levels
+
+#### Cons:
+- Does not work well for explaining atoms of elements aside from H
+- The motion and position of an electron can not be predicted at a point in time
+- Orbits are not at fixed radiuses
+
+## Quantum Theory & Orbitals
+
+Here's the thing about electrons: contrary to popular belief, for the most part, we don't know where the fuck electrons actually are. We know where they are generally (shells, orbitals, etc) but we can't pinpoint them at a fixed point in time (Heisenberg's Uncertainty Principle.)
+
+Knowing how electrons are arranged is important because it defines how atoms will interact with each other.
+
+**Orbitals** are areas within atoms where there is a roughly a 90% chance of finding electrons. Orbitals are defined mathematically but can be visualized in a 3D space. 
+
+### Energy Levels
+
+Bohr's energy levels are based on the principle quantum number (n). Elements in period 1 (H, He) have a PQN of 1 (n=1). Elements in period 2 (Li, Be, etc) have a PQN of 2 (n=2). This keeps going
+
+#### Sublevels
+
+Within energy levels are sublevels (aka orbitals.) In n=1, there is only 1 sublevel called the 1s orbital.
+
+![](1s_Orbital.png)
+
+In n=2, there are 2 types of orbitals:
+- 1 *s orbital*
+- 3 *p orbitals*
+
+P orbitals are found in every energy level except for n=1.
+
+![](2s_Orbital.png)
+
+![](2p_Orbital.png)
+\**Keep in mind there are 3 of these on the x, y, & z axis overlaid on the 2s orbital.*
+
+Along with s & p orbitals, you also have d & f orbitals. 
+
+D orbitals start from n=3. There are 5 types of d orbitals.
+
+![](D_Orbital.png)
+
+F orbitals are even more irregular. There are 7 types and don't occur until n=4. They are also found in the Lanthanide & Actinide series.
+
+![](F_Orbital.png)
+##### Orbital Capacities
+
+All orbitals can only hold 2 electrons. However, orbitals have different quantities for energy levels. 
+
+For example, you can only have 1 s orbital per energy level while you can have 3 p orbitals per energy level.
+
+This means that for each orbital set, you'll technically have different capacities.
+
+| Orbital    | Amount                                 | Amount of Electrons/Math/Explanation |
+| ---------- | -------------------------------------- | ------------------------------------ |
+| \<Orbital> | \<Amount Of Orbitals Per Energy Level> | Amount of orbitals \* 2              |
+| S          | 1                                      | 1 \* 2 = 2                           |
+| P          | 3                                      | 3 \* 2 = 6                           |
+| D          | 5                                      | 5 \* 2 = 10                          |
+| F          | 7                                      | 7 \* 2 = 14                                     |
+
+You may think you see a pattern for the next orbital. **THERE IS NO PATTERN**
+### Electron Orbital Configuration
+
+Something you may be thinking is "How do you apply this to atoms?" or "How can I write this out for an atom?" or "What the actual fuck? This shit makes no sense, I give up.". All of these are valid questions (except for the last one which 50% a statement.) 
+
+We can relate all these orbitals to atoms while also representing atoms with electron orbital configuration.
+
+Let's start with something simple, everyone's favorite element: Hydrogen \\(￣︶￣*\\)).
+
+We need to first determine how many electrons are in a Hydrogen atom. If you've taken any chemistry class in the last few years (and don't have early onset dementia,) you would know that the amount of protons are equal to the amount of electrons and that the number of protons is conveniently also the atomic number. In this case, it's 1.
+
+Since we have 1 electron and we know Hydrogen is in energy level 1, we know we only have the 1s orbital.
+
+The 1s orbital can hold 2 electrons but for now, it only needs to hold 1.
+
+We would write it as so:
+
+1S<sup>1</sup>
+
+Let's breakdown what this means:
+
+| 1            | S                | 1                                      |
+| ------------ | ---------------- | -------------------------------------- |
+| Energy Level | Sublevel/Orbital | Amount of electrons in said orbital(s) |
+
+Let's try Helium (He). Helium has 2 electrons. S1 can hold 2. We also know that Helium is n=1.
+
+Therefore, we write it as this:
+
+1S<sup>2</sup>
+
+"What about when 1S or other orbitals are filled?" Then just move on to the next orbital. You'll need to memorize the order.
+
+![](Orbital_Periodic_Table.png)
+
+It gets weird after 3p as 3d actually goes after 4s and not 3s. It continues like that for the rest of the periodic table so keep that in mind.
+
+Here's the exact order.
+1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3p<sup>6</sup> 3s<sup>2</sup> 4s<sup>2</sup> 4p<sup>6</sup>5s<sup>2</sup> 3d<sup>10</sup> 5p<sup>6</sup> 6s<sup>2</sup> 4d<sup>10</sup> 6p<sup>6</sup> 7s<sup>2</sup> 5d<sup>10</sup> 4f<sup>14</sup> 7p<sup>6</sup>
+
+Let's try something a bit harder.
+
+Sodium has 11 electrons. 
+
+1s can hold 2 electrons. 2s holds another 2, 2p holds 6 electrons in total, and 3s only needs to hold the remaining 1.
+
+2 + 2 + 6 + 1 = 11
+
+Therefore, we can write sodium as 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>1</sup>
+
+#### Pro-Tips
+
+##### Simplify Electron Configs Using Noble Gases
+
+Because Noble Gases have complete orbitals, we can use them to simplify long electron configurations. An example is Bromine (Br). If we were to write out the full notation, it would look like this: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>5</sup>. With Noble Gases, we can shorten it to this: \[Ar]4s<sup>2</sup>3d<sup>10</sup>4p<sup>5</sup>. Remember to only use the closest Noble Gas before the atom in question and only do this with Noble Gases.
+
+##### Find PT Position With Electron Configs
+
+The last orbital is the position of the atom in the periodic table. Eg. Lithium's last orbital is 2s<sup>1</sup> meaning it's in the second period and first column.
+### Orbital Diagrams
+
+Example:
+![[Lithium_Orbital_Diagram.png]]
+
+Each box represents 1 orbital and the arrows are electrons. The direction of the arrows represent the relative spin of the electron.
+
+#### Distribution Rules
+
+##### Pauli Exclusion Principle
+
+No 2 electrons in the same atom can have the exact same energy. They can't have the same 4 quantum numbers or the same spin.
+
+![](Pauli_Exclusion_Principle.png)
+
+##### Aufbau Principle
+Always built the electron structure starting at the lowest energy level. (s<p<d<f)
+
+![](Aufbau_Principle.png)
+
+##### Hund's Rule
+
+Electrons will arrange themselves in the same orbital with the max number of unpaired electrons. In more dumb dumb terms, spread electrons as much as possible before adding more to an orbital that already has an electron.
+
+![](Hunds_Rule.png)
