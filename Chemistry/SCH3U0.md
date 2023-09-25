@@ -489,6 +489,7 @@ As you go down groups, EA decreases. This is because each atom is larger than th
 
 As you move across a period, EA increases. THis is because the amount of effective nuclear charge increases (more protons,) the atomic radius gets smaller and therefore, a greater attraction for electrons. Since Halogens have the most valence electrons without a full shell, they want to gain electrons.
 
+Since Noble Gases have full valence shells, they do not have an EA.
 #### Electronegativity
 
 Electronegativity is the relative ability of a bonded atom to attract shared electrons. Atoms with relitvely high EN tend to pull bonded electrons closer to their nuclei. This concept dictates the nature of bonds that form and the properties of the compounds which contain those bonds. 
