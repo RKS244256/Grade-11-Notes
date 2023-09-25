@@ -366,3 +366,136 @@ Always built the electron structure starting at the lowest energy level. (s<p<d<
 Electrons will arrange themselves in the same orbital with the max number of unpaired electrons. In more dumb dumb terms, spread electrons as much as possible before adding more to an orbital that already has an electron.
 
 ![](Hunds_Rule.png)
+
+## Periodic Table & Trends
+
+### Mendeleev's Periodic Law
+
+Dmitri Mendeleev (goofy looking Russian scientist) arranged elements in order of ascending atomic mass. The pattern found us called **Mendeleev's Periodic Law**. 
+
+"If the elements are arranged according to their atomic mass, a pattern of similar properties can be seen."
+
+Mendeleev was not the first to search for order with the elements but his order now forms the basis for the current periodic table.
+
+### Periodic Law
+
+When elements are arranged by Atomic number their chemical and physical properties recur periodically.
+
+**Groups:** a column in the periodic table
+**Periods:** a row in the periodic table
+
+### Atomic Radius
+
+Atomic radius is the distance between the center of the nucleus and the other boundary of an atoms charge cloud. 
+
+It's determined by 2 things:
+
+- Number of energy levels (n) present. As n increases, the outer electrons spend more time further from the nucleus and atoms become larger.
+
+- The amount of nuclear charge felt by the outer electrons. As the effective charge increases, the outer electrons are pulled closer to the nucleus and the atom therefore becomes smaller. (Opposites attract.)
+![](Atomic_Number_To_Radius_Graph.png)
+
+Going down a group, the radius increases whilst going across a period, the radius deceases. 
+
+Going down groups and increasing is because there are more energy levels. Even though the number of protons are increasing, the inner electrons shield the outer electrons from the attractions from the nucleus.
+
+Exception is noble gases because they have full energy levels and therefore have stronger attraction to the nucleus.
+
+Going across periods and decreasing is because there are more protons. Electrons are being added to the same energy level and aren't obtaining any additional shielding from inner electrons. This makes it so the electrons can be pulled towards the nucleus.
+
+![](Nuclear_Charge_Diagram.png)
+
+#### Exceptions
+
+An example of an exception is Zinc and Vanadium having the same atomic radius. This can be explained through electron configurations.
+
+Zn: \[Ar]3d<sup>10</sup>4s<sup>2</sup>
+V: \[Ar]3d<sup>3</sup>4s<sup>2</sup>
+
+Even though Zinc has 7 more protons, the extra shielding from the 10 electrons in the 3d orbital makes it so Zinc's atomic radius is the same as Vanadium's.
+
+#### Ions
+
+The same forces apply to ions.
+
+Al<sup>3+</sup>, F<sup>-</sup>, Mg<sup>2+</sup>, etc have 10 electrons meaning:
+- They are **isoelectronic** with Neon (meaning they have the same amount of electrons/electron config)
+- They have the same amount of shielding
+
+Therefore the only thing that affects their radius is the attractive force from the nucleus (how many protons they have.) That means that if we order these from smallest to largest, it would be:
+
+Al<sup>3+</sup>, Mg<sup>2+</sup>, F<sup>-</sup>
+
+##### Cations
+
+Removing electrons will naturally reduce the radius of an atom because less repulsion and the number of shells decreases.
+
+*Eg. Li<sup>+</sup> is smaller than Li*
+
+##### Anions
+
+Gaining electrons will increase electron repulsion while also keeping the number of energy levels the same.
+
+*Eg. F<sup>-</sup> has a larger radius than F*
+
+##### Ionization Energy
+
+Ionization energy is the minimum energy required in order to remove an electron from a gaseous atom/ion.
+
+It commonly refers to the first ionization energy where a neutraal atom becomes a 1+ cation.
+
+*Eg. atom<sub>(g)</sub> + IE<sub>1</sub> -> ion<sup>+</sup><sub>(g)</sub> + e<sup>-</sup>*
+
+It tells us how strongly an atom holds onto its valence electrons. An element with a low IE is more likely to lost electrons and form cations.
+
+![](Atomic_Number_To_IE_Graph.png)
+
+Noble gases have the highest IE because they have full shells. Alkali metals have the lowest IE because they only have 1 electron in their valence shells.
+
+Generally, a large atom will have a lower IE while a smaller atom will be held together more strongly and have a higher IE.
+
+Atoms with one electron have more than one ionization energy. 
+
+The first ionization energy is the energy needed to remove the first electron from an atom.
+
+
+The second ionization energy is the energy needed to remove the second electron from an atom.
+
+
+The third ionization energy is the energy needed to remove the third electron from an atom.
+###### Exceptions
+
+Exceptions to this rule include Nitrogen & Oxygen. Oxygen is smaller than Nitrogen but has a lower IE. We can look at their electron configurations to explain this.
+
+Nitrogen has half of its 2p sublevel filled whilst Oxygen has a pair in one of its 2p orbitals. This pair increases the electron-rlectron repulsion associated with the pairing which makes it easier for Oxygen to lose an electron.
+
+###### Ionization Energies in kJ/mol
+
+After removing an electron from an atom, further IE increase because every next electron is being separated from an increasingly positive ion.
+
+*eg.*
+
+*He + 2372kJ -> H<sup>+</sup> + e<sup>-</sup>*
+
+*He<sup>+</sup> + 5250kJ -> H<sup>2+</sup> + e<sup>-</sup>*
+
+### Electron Affinity
+
+Electron affinity is the ability of an atom to attract an electron. It's measured as an energy change when an electron is added to the outer n to form an Anion.
+
+The more negative the electron affinity value, the higher an atom's affinity is for electrons.
+
+As you go down groups, EA decreases. This is because each atom is larger than the last above & an electron would be further away from the atom's nucleus. The farther way from the nucleus, the force of attraction is weaker and therefore, EA decreases.
+
+As you move across a period, EA increases. THis is because the amount of effective nuclear charge increases (more protons,) the atomic radius gets smaller and therefore, a greater attraction for electrons. Since Halogens have the most valence electrons without a full shell, they want to gain electrons.
+
+#### Electronegativity
+
+Electronegativity is the relative ability of a bonded atom to attract shared electrons. Atoms with relitvely high EN tend to pull bonded electrons closer to their nuclei. This concept dictates the nature of bonds that form and the properties of the compounds which contain those bonds. 
+
+Smaller atoms have higher EN values because their nuclei would be closer to bonded electrons. 
+
+This trend is similar to Ionization energy where moving across periods increases while moving down groups decreases. (See [Ionization Energy](#Ionization Energy) for more.)
+
+![](Atomic_Number_To_EN_Graph.png)
+
