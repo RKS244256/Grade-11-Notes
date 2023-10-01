@@ -1,4 +1,4 @@
-## Isotopes
+ ## Isotopes
 
 **Isotopes** are atoms of the same element that have different masses due to having a different number of neutrons.
 
@@ -442,11 +442,11 @@ Gaining electrons will increase electron repulsion while also keeping the number
 
 Ionization energy is the minimum energy required in order to remove an electron from a gaseous atom/ion.
 
-It commonly refers to the first ionization energy where a neutraal atom becomes a 1+ cation.
+It commonly refers to the first ionization energy where a neutral atom becomes a 1+ cation.
 
 *Eg. atom<sub>(g)</sub> + IE<sub>1</sub> -> ion<sup>+</sup><sub>(g)</sub> + e<sup>-</sup>*
 
-It tells us how strongly an atom holds onto its valence electrons. An element with a low IE is more likely to lost electrons and form cations.
+It tells us how strongly an atom holds onto its valence electrons. An element with a low IE is more likely to lose electrons and form cations.
 
 ![](Atomic_Number_To_IE_Graph.png)
 
@@ -467,7 +467,7 @@ The third ionization energy is the energy needed to remove the third electron fr
 
 Exceptions to this rule include Nitrogen & Oxygen. Oxygen is smaller than Nitrogen but has a lower IE. We can look at their electron configurations to explain this.
 
-Nitrogen has half of its 2p sublevel filled whilst Oxygen has a pair in one of its 2p orbitals. This pair increases the electron-rlectron repulsion associated with the pairing which makes it easier for Oxygen to lose an electron.
+Nitrogen has half of its 2p sublevel filled whilst Oxygen has a pair in one of its 2p orbitals. This pair increases the electron-electron repulsion associated with the pairing which makes it easier for Oxygen to lose an electron.
 
 ###### Ionization Energies in kJ/mol
 
@@ -500,3 +500,100 @@ This trend is similar to Ionization energy where moving across periods increases
 
 ![](Atomic_Number_To_EN_Graph.png)
 
+### Intramolecular Forces
+
+Intramolecular bonding is the forces within a molecule. It holds molecules together and fulfills the octet rule (full energy level.) Atoms bond in order to completely fill or empty their valence shell to achieve stable electron configuration.
+
+#### Types of Intramolecular Bonding
+
+Ionic Bonds are bonds between metals and non-metals
+
+Covalent Bonds are bonds between two non-metals. It has 2 types:
+- Polar - Two atoms unequally share electrons. The electrons will be closer to the more EN atom. (eg. H<sub>2</sub>)
+- Non-polar  - Electrons are shared equally between two atoms (eg. H<sub>2</sub>O because Oxygen has a higher EN than Hydrogen.)
+
+Here is a quick comparison for properties generally.
+
+| Ionic                                                      | Covalent                                              |
+| ---------------------------------------------------------- | ----------------------------------------------------- |
+| Higher melting points                                      | Lower melting/boiling points                          |
+| Solid                                                      | Tend to be gases, liquids or low melting-point solids |
+| Hard and Brittle                                           | Soft and waxy                                         |
+| Non-conductive in solid form but conductive in liquid form | Non-conductive                                        |
+| Soluble in water                                           | Generally insoluble with exceptions                                                      |
+
+Covalent compounds often follow their formulas exactly and how many of each atom there is (H<sub>2</sub>O means 2 Hydrogen & 1 Oxygen.) However ionic formulas are ratios instead (NaCl has a 1:1 ratio of Sodium & Chloride.)
+
+Metallic - Not covered in these notes.
+
+#### Ionic Bonding
+
+The electrostatic attractive force between the oppositely charged ions are produced when metal atoms transfer 1<= electrons to a non-metal.
+
+This forms a crystal lattice. This is different from covalent bonds (eg water which always contains 2 hydrogen and 1 oxygen at exactly any given time.)
+
+*Example:*
+
+*NaCl has a ratio of 1:1 but makes a 6:6 coordinated crystal lattice. The max number of chlorine ions that can fit around a central sodium ion is 6.*
+
+*This is not the case for a compound such as MgCl<sub>2</sub> as it is not a 1:1 ratio*
+##### Ionic Bond Diagrams
+
+Ionic bond diagrams are easy enough (to the point I can just have a picture here for those with monkey brains.) This is for Al<sub>2</sub>O<sub>3</sub>:
+
+![](Ionic_Lewis_Diagram.jpeg)
+#### Covalent Bonding
+
+Molecular compounds (as you probably already know) consist of non-metals bonded to other non-metals through covalent bonds. This kind of bond is formed between 2 non-metal atoms by sharing a pair of electrons (blah blah blah you should know this shit already.)
+
+*Quick Note:* Remember HOFBrINCl (Hofbrincl) which are diatomic and when alone are in 2s.
+
+##### Valence Bond Theory
+
+A covalent bond is formed when 2 orbitals overlap and produce a new combined orbital containing 2 electrons with opposite spin. This decreases the energy of the atoms forming the bond.
+
+*Example: 1s<sup>1</sup> orbitals of 2 H atoms overlap and form a covalent bond of a hydrogen molecule. The 2 shared electrons spend their time between the 2 H nuclei. This combined orbital is just like a filled atomic orbital. Any 2 half-filled orbitals can overlap in the same way.*
+
+![](Hydrogen_Bond.png)
+
+*HF is another covalent compound. The 1s<sup>1</sup> orbital is thought to overlap with the half-filled 2p<sup>z</sup> orbital*
+
+![](Hydrogen_Monofluoride_Bond.png)
+
+##### Non-Polar Covalent Bonds
+
+**Non-polar covalent bonds** are 2 atoms that interact to equally share electrons (ie H<sub>2</sub>.) 
+
+##### Polar Covalent Bonds
+
+**Polar covalent bonds** are when 2 atoms don't equally share electrons as the electrons reside near the more **electronegative** atom. (Remember the hell that was trends?).
+##### Bonding Capacity
+
+Bonding capacity is the max amount of bonds an atom can form.
+
+If an atom has an electron on all sides, it has a higher capacity than one with pairs or one with only one electron in its valence shell. 
+
+Essentially, bonding capacity relies on the Octet Rule and how many electrons it can share.
+
+*Eg. Carbon has more bonding capacity than Oxygen or Bromine*
+
+##### Lewis Structures
+
+More goofy pictures cuz I'm too lazy to type.
+###### Covalent Lewis Structures
+
+![](Covalent_Lewis_Structure_CH3Br.png)
+
+![](Covalent_Lewis_Structure_CH4.png)
+
+![](Covalent_Lewis_Diagram_NH3.png)
+###### Diatomic Lewis Structure (O2)
+
+![](Diatomic_Lewis_Diagram.png)
+
+###### Multiple Covalent Lewis Structures
+
+Sometimes, the only way to satisfy the octet rule is to make multiple bonds between atoms (O<sub>2</sub> above for instance.)
+
+![](Multi_Covalent_Lewis_Structure.png)
+![](Multi_Polyatomic_Lewis_Structure.png)
