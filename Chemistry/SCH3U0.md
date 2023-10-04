@@ -597,3 +597,110 @@ Sometimes, the only way to satisfy the octet rule is to make multiple bonds betw
 
 ![](Multi_Covalent_Lewis_Structure.png)
 ![](Multi_Polyatomic_Lewis_Structure.png)
+*NOTE: LAST PART OF THIS IS WRONG. WILL REPLACE EVENTUALLY*
+
+## Polar Bonds
+
+A covalent bond is when electrons are shared between 2 atoms. In a molecule with identical atoms, the electrons are equally shared. However, these bonds can have unequal sharing and therefore have an uneven distribution of charge. 
+
+We use the delta (d) to indicate a small difference in charge. 
+
+*Example:*
+*d<sup>+</sup> d<sup>-</sup>
+H--Cl*
+
+*Cl has a strong attraction to shared electrons and creates a partial negative pole.*
+
+*This is example is a dipole (one end is postivies and the other end is negative.)*
+
+![](Dipole_Diagram.png)
+
+### Bonding Continuum
+
+If you remember trends, as you go across periods, EN increases whilst it decreases as you go across groups.
+
+The difference of EN can help us know what type of bonding occurs between 2 atoms. 
+
+Ionic compounds have an EN difference of 3.3-1.8
+
+Polar Covalent compounds have an EN difference of 0.4-1.799
+
+Non-Polar Covalent compounds have an EN of 0-0.399
+
+A Pure Covalent has an EN difference of 0 (often diatomics)
+
+### How To Tell If A Molecule Is Polar
+
+The presence of polar bonds inside a molecule can affect the polarity of the entire molecule.
+
+In order for a molecule to be polar, it must satisfy 2 requirements:
+
+- Contains a polar bond
+- Does not have symmetry
+
+*Example*
+*Is water polar?*
+
+*Hydrogen's EN is 2.1, Oxygen's is 3.5*
+
+*3.5-2.1=1.4*
+
+*The EN difference falls into Polar Covalent.*
+
+*A water molecule isn't symmetrical in it's Lewis Diagram. If it was, the 2 charges of the dipoles would have cancelled eachother out.*
+
+*NOTE: When a molecule is polar, it tends to have a bent shape.*
+
+![](Water_Molecule.png)
+
+*Therefore, water is polar.*
+
+*Example*
+
+*Is it possible for a non-polar molecule to have polar bonds?*
+
+*CCl<sub>4</sub> has polar bonds because the EN difference between C & Cl is 0.5*
+
+*However, because this molecule isn't asymmetrical, the forces cancel out and it lacks oppositely charged ends.*
+
+*Therefore, CCl<sub>4</sub> is a non-polar molecule*
+
+## Intermolecular Bonding
+
+Intermolecular forces are the forces between molecules. These forces are not very strong and are weaker than covalent/ionic bonds.
+
+There are 3 types:
+
+- Hydrogen Bonding (strongest)
+- Dipole - dipole
+- London Dispersion Forces (Weakest)
+
+### Hydrogen Bonding
+
+Hydrogen bonds only happen between H and O, N, or F. They are the strongest intermolecular forces.
+
+It's the force that holds together water.
+
+### Dipole Forces
+
+Only happens between polar molecules. The partial +ve charge of one molecule is attracted to the -ve charge of another molecule.
+
+### London Dispersion Forces
+
+Weakest out of the 3. They are more significant in non-polar molecules. It happens when electrons alternate between each atom for a split second and change the charge of a pole. As another molecule approaches, the negative charge causes the electrons of that molecule to repel to the opposite side and create another dipole. These 2 molecules attract each other because of their opposite charges.
+
+### Ion - Dipole
+
+*Example*
+
+*NaCl dissolves into 2 ions that will interact with polar H<sub>2</sub>O*
+
+### Effects Of Intermolecular Forces On Properties
+
+The stronger the force, the more energy required to melt/boil the substance. If only dispersion forces are present, then the more electrons the molecule has, the strong the dispersion forces will be.
+
+Non-polar substances dissolve in non-polar substances.
+
+Polar substances dissolve in polar substances.
+
+Ionic solutes will generally dissolve only in polar solvents
