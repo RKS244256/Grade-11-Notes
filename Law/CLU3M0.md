@@ -129,3 +129,24 @@ Sanctions can be minor or major penalties depending on the law broken.
 
 #### Administrative Review
 Some disputes are settled outside of courts and these are delegated to other bodies who can make decisions based on evidence. Examples include the Landlord-Tenant board. 
+
+## Common Law & Civil Law
+
+There are 2 common legal systems. The use of each system depends on a country's history. For example, France uses civil law and England uses common law. Their previous colonies tend to use the same.
+
+### Civil Law
+
+Civil law (as a legal system not as a synonym for private law) is the oldest and most common legal system in the world. Governments create and maintain complete codes of law. That means government legislations are the primary source of laws.
+
+Judges play a large role in the civil law system and they're allowed to take an inquisitorial role. They may refer to prior cases in order to achieve consistency but not because of *stare decisis*.
+### Common Law
+
+The common law system dates back to Norman Conquest in 1066. The law is developed through court decisions rather than statutes. While legislation is created, it's interpreted by courts. Because the law is applied based on Judges' decisions, the common law is flexible based on cases and circumstances.
+
+Common law is based on *stare decisis* or the longer form *stare decisis et non quieta movere*. it means to stand by decisions and "not disturbed the undisturbed." Basically means don't screw with existing precedents. If there's different circumstances, judges can distinguish and set new precedents based on those changed circumstances. 
+
+*Stare decisis* is based on the hierarchy of courts. The decisions of higher courts are binding on all lower courts. Judges are not bound by decisions of other judges in their court. However, they can influence their ruling.
+
+When judges interpret laws, they can essentially change/create laws. however, these interpretations must be constitutional. Legislature will often patch laws made by judges.
+
+Juries are used when you face a charge with the punishment of 5 years or more. If a jury is involved, the judge becomes a legal advisor to the jury while the jury evaluates the evidence and makes a judgement. Outside of criminal law, juries are not common.
