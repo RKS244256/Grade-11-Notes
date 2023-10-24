@@ -704,3 +704,82 @@ Non-polar substances dissolve in non-polar substances.
 Polar substances dissolve in polar substances.
 
 Ionic solutes will generally dissolve only in polar solvents
+
+## Nomenclature
+
+*In order to understand most of this, make sure to look at nomenclature in my grade 10 notes*
+
+### Latin Multivalent
+
+Because people can't let go of dead languages (like Latin or French), multivalent metals have a Latin nomenclature system for some godforsaken reason. The suffixes are easy but the Latin names for the element is where it'll generally fuck you over. There's no system for Latin so just fuck off and get a Latin dictionary out.
+
+#### Suffixes
+
+"*ous*" suffix for lower valence
+
+"*ic*" suffix for higher valence
+
+*examples:*
+
+*CuCl<sub>2</sub> = Copper (II) Chloride = Cupric Chloride*
+
+*CuCl = Copper (I) Chloride = Cuprous Chloride*
+
+### Polyatomic Ions
+
+Polyatomic Ions are also known as radicals
+#### "ATES" Polyatomic Ions
+
+Polyatomic Ions with the suffix "ate" and no prefix are the base ions with what I can only describe as the default amount of oxygen atoms.
+
+If there's one more oxygen atom, you add the "per" prefix.
+
+If there's one less oxygen atom, you replace the suffix with "ite."
+
+If there's two less oxygen atoms, you replace the suffix with "ite" and add the prefix of "hypo"
+
+*Examples*
+
+*Percarbonate: CO<sub>4</sub><sup>2-</sup>*
+
+*Carbonate: CO<sub>3</sub><sup>2-</sup>*
+
+*Carbonite: CO<sub>2</sub><sup>2-</sup>*
+
+*Hypocarbonite: CO<sub>3</sub><sup>2-</sup>*
+
+### Hydrates
+
+Hydrates are ionic compounds. They crystallize from a water solution such that water molecules stick to the crystals. They exist in a specific ratio.
+
+*Example*
+
+*Na<sub>2</sub>SO<sub>4</sub> \* 6H<sub>2</sub>O*
+
+*This means that there are 6 water molecules attached to the Sodium Sulfate*
+
+#### Naming Hydrates
+
+First name your ionic compound. Then add the prefix for how many water molecules present. 
+
+*Example:*
+
+*Na<sub>2</sub>SO<sub>4</sub> \* 6H<sub>2</sub>O = Sodium Sulfate Hexahydrate*
+
+*CuSO<sub>4</sub> \* 5H<sub>2</sub>O = Copper (II) Sulfate Pentahydrate* 
+
+#### Anhydrous
+
+Water can be removed from some hydrates. These turn them into anhydrous compounds.
+
+*BaCl<sub>2</sub> \* 2H<sub>2</sub>O -> BaCl<sub>2</sub> + 2H<sub>2</sub>O*
+
+*Barium Chloride Dihydrate -> Anhydrous Barium Chloride + Water*
+
+### Peroxides
+
+Peroxides contain 2 oxygen with a single bond therefore create an O<sub>2</sub> ion with a -2 charge.
+
+*Example:*
+
+*MgO<sub>2</sub> = Magnesium Peroxide*
