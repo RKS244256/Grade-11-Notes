@@ -783,3 +783,194 @@ Peroxides contain 2 oxygen with a single bond therefore create an O<sub>2</sub> 
 *Example:*
 
 *MgO<sub>2</sub> = Magnesium Peroxide*
+
+### Acids
+
+Acids when dissolved in water are aqueous.
+#### Binary Acids
+
+Hydrogen + Element
+
+Just add hydro prefix and "ic" suffix.
+
+*Example*
+
+*Hydrobromic Acid = HBr*<sub>(aq)</sub>
+
+#### Oxyacids
+
+Hydrogen + Polyatomic
+
+Like polyatomic ions, there's different suffixes and prefixes for a different amount of oxygen.
+
+If the ion ends with "ate", the acid suffix is "ic"
+
+*Example:*
+
+*H<sub>2</sub>SO<sub>4</sub> = Hydrogen Sulfate = Sulfuric Acid*
+
+If the ion ends with "ate" and starts with "per", the acid suffix is "ic" and the prefix is "per"
+
+*Example:*
+
+*H<sub>2</sub>SO<sub>5</sub> = Hydrogen Persulfate = Persulfuric Acid*
+
+If the ion ends with "ite", the acid suffix is "ous"
+
+*Example:*
+
+*H<sub>2</sub>SO<sub>3</sub> = Hydrogen Sulfite = Sulfurous Acid*
+
+If the ion ends with "ite" and starts with "hypo", the acid suffix is "ous" and the prefix is "hypo"
+
+*Example:*
+
+*H<sub>2</sub>SO<sub>2</sub> = Hydrogen Hyposulfite = Hyposulfurous Acid
+
+### Bases
+
+Usually end in *OH*.
+
+Metal + Hydroxide (OH<sup>-</sup>) = Bases
+
+*Examples:*
+
+*Potassium Hydroxide = KOH*
+
+### Chemical Reactions
+
+Only new thing I'll mention generally is the delta sign being used to symbolize when heat is being added to a reaction. Place it before the arrow.
+
+#### Synthesis
+
+There are different types of synthesis based on what they produce.
+
+##### Production of Salts
+
+Salts are a metal and non-metal that have no net charge.
+
+*Examples:*
+
+- *NACL*
+- *MgSO<sub>4</sub>*
+- *CaCO<sub>3</sub>*
+##### Production of Acids
+
+Non-metal oxide + Water -> Acid
+
+*Example:*
+
+*SO<sub>3(g)</sub>+H<sub>2</sub>O<sub>(l)</sub> -> H<sub>2</sub>SO<sub>4(aq)</sub>*
+
+##### Production of Bases
+
+Metal Oxide + Water -> Base
+
+*Example:*
+
+*CaO<sub>(s)</sub> + H<sub>2</sub>O -> Ca(OH)<sub>2</sub>*
+
+#### Decomposition
+
+One special note: metal carbonates decompose to produce metal oxide and carbon dioxide.
+
+*Example:*
+
+*MgCO<sub>3</sub> -> MgO + CO<sub>2</sub>*
+
+##### Hydroxides
+
+Hydroxide -> Metallic Oxide + Water
+
+*Example:*
+
+*2NaOH -> Na<sub>2</sub>O + H<sub>2</sub>O*
+
+##### Bicarbonates
+
+Bicarbonate -> Metallic Carbonate + Carbon Dioxide + Water
+
+*Example:*
+
+*2NaHCO -> Na<sub>2</sub>CO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O*
+
+##### Carbonates
+
+carbonate  -> metal oxide + carbon dioxide
+
+*Example:*
+
+*Li<sub>2</sub>CO<sub>3</sub> -> Li<sub>2</sub>O + CO<sub>2</sub>*
+
+##### Oxyacids
+
+Oxyacid -> Non-metal Oxide + Water
+
+*Example:*
+
+*H<sub>2</sub>SO<sub>4</sub> -> SO<sub>3</sub> + H<sub>2</sub>O*
+
+##### Nitrates
+
+Nitrate -> Nitrite + Oxygen
+
+*Example:*
+
+*2KNO<sub>3</sub> -> 2KNO<sub>2</sub> + O<sub>2</sub>*
+
+##### Chlorate
+
+Chlorate -> Metal Chloride + Oxygen
+
+*Example:*
+
+*2NaClO<sub>3</sub> -> 2NaCl + 3O<sub>2</sub>*
+
+#### Displacement
+
+##### Single Displacement
+Use the activity table to determine whether a metal would be displaced by another. Halogens do the same.
+
+##### Double Displacement
+###### Neutralizations
+
+Forms water and a salt.
+
+*Example:*
+
+*HCl + NaOH -> H<sub>2</sub>O + NaCl*
+###### Precipitation
+
+Forms water and an insoluble precipitate.
+
+In order to find which compounds are insoluble, check the solubility table and each element's exceptions.
+
+*Examples:*
+
+*AgNO<sub>3</sub> + NaCl -> NaNO<sub>3</sub> + AgCl*
+
+*AgCl is the precipitate because chlorides are soluble but in this case, there's an exception when it's with Silver*
+
+**Note: If both products are Aqueous or Soluble, then there's no reaction.**
+
+***Example:***
+
+***NaNO<sub>3</sub> + NH<sub>4</sub>Cl -> NaCl + NH<sub>4</sub>NO<sub>3</sub>***
+
+***Sodium Chloride is soluble and Nitrates are also soluble. Therefore, there's no reaction (NR)***
+
+##### Combustion
+
+###### Complete
+
+Produces carbon dioxide and water.
+
+*Example:*
+
+*2C<sub>8</sub>H<sub>18</sub> + 25O<sub>2</sub> -> 18CO<sub>2</sub> + 16H<sub>2</sub>O*
+
+###### Incomplete
+
+Caused by insufficient oxygen.
+
+Produces water, carbon and carbon monoxide.
