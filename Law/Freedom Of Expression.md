@@ -38,13 +38,13 @@ We do not have the right not to be offended.
 
 ### R. v. Sharpe
 
-S. 2(b) has also been used in challenges involving CP charges.
+S. 2(b) has also been used in challenges involving CSAM charges.
 
-The sick fuck known as Sharpe was faced with CP charges under s. 163.1(4) of the Criminal Code. He challenged the constitutionality of the provision in the criminal code.
+The sick fuck known as Sharpe was faced with CSAM  charges under s. 163.1(4) of the Criminal Code. He challenged the constitutionality of the provision in the criminal code.
 
 Sharpe claimed it violated his freedom of expression. The court found that the provision did violate his rights however it was justified under s. 1.
 
-The CP in question was essentially lolicon and were drawn by Sharpe (degenerate).
+The CSAM in question was essentially lolicon and were drawn by Sharpe (degenerate).
 
 The court said "freedom of expression makes possible our liberty"
 
