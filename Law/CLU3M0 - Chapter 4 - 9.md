@@ -137,6 +137,23 @@ A group is considered 3 or more individuals who share a common identity. As soon
 
 *Example: If I start the Kool Kids Klub & we start committing arson, then we're considered a criminal organization.*
 
+
+### Criminal Court System
+
+The British North America Act, 1867 gave the federal government the power to make criminal law and establish the procedures to be followed in criminal matters. The federal and provincial government split jurisdiction when it comes to the court system.
+
+The provincial government controls the administration of justice.
+
+#### Types of Courts
+
+| Court                      | Jobs                                                                                                                                                                                                                                                                                 | Notes:                                                                                                                                                                            |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Provincial Courts          | - Reads the charge and enters the plea of the accused<br><br>- Holds preliminary hearings for serious indictable offences (when the accused elects to have the case tried in a higher court)<br><br>- Hears and tries summary conviction cases and less serious indictable offences. | Judges are appointed by the provincial government.<br><br>If a mistake is made in this court, it can be appeal to any higher court.                                               |
+| Provincial Superior Courts | - Tries more severe indictable offences<br><br>- Hears criminal appeals in summary convictions cases<br><br>- Sets provincial precedent                                                                                                                                              | Can be composed of a judge or judge and jury.<br><br>Judges are appointed by the federal government.                                                                              |
+| Provincial Court of Appeal | - Hears appeals from trials division of the provincial superior courts<br><br>- Sets provincial precedent that must be followed by all judges in the province                                                                                                                        | Highest court in the Province.<br><br>Only accepts appeals deemed to be of great importance.<br><br>Made up of 3-5 judges.<br><br>Judges are appointed by the federal government. |
+| Federal Courts             | - Hears the legal disputes with the Federal government<br><br>- Has jurisdiction involving federal government boards, tribunals, etc.<br><br>- Handles appeals to those decisions.                                                                                                   | Divided into the Federal court and Federal Court of Appeals.<br><br>Decisions in this court can be appealed to the SC.                                                                                                                      |
+| Supreme Court                           | - Hears appeals from the Federal and Provincial Court of Appeals.<br><br>- Hears cases of great importance<br><br>- Sets national precedence<br><br>- Unlimited jurisdiction                                                                                                                                                                                                                                                                                     | Highest court in the land.<br><br>Only agrees to hear an appeal if it's of great importance or a question of law needs to be interpreted.<br><br>Judges appointed by the federal government and serve until the age of 75.                                                                                                                                                                                  |
+![](Criminal_Court_System.png)
 ## Chapter 5
 
 The police can arrest you during a criminal act or after a police investigation. In either case, you have rights to protect you from the police during arrest and trial procedures (Canadian Charter sections 7-14). 
