@@ -974,3 +974,706 @@ Produces carbon dioxide and water.
 Caused by insufficient oxygen.
 
 Produces water, carbon and carbon monoxide.
+
+## Stoichiometry
+
+*I'm going to expect you know about Scientific Notation*
+
+### Significant Digits
+
+**Rules:**
+
+- All digits from 1-9 are significant
+- Zeros in between non-zero digits are significant
+- Trailing zeros are significant
+- Leading zeros are not significant
+- Numbers from counting are not considered when determining significant digits
+- If a whole number ends in trailing zeros, the zeros are not necessarily significant
+	- A solution to this is using scientific notation
+
+**Examples:**
+
+- 1.234 has 4 sig digs
+- 3.07 has 3 sig digs
+- 0.40 has 2 sig digs
+- 0.001 has 1 sig dig
+- 50600 has 3/4/5 sig digs
+
+#### Rounding
+
+**Rules:**
+
+- If the digit dropped is greater than 5, round up
+	- 68.9 -> 69
+- If the digit dropped is less than 5, round down
+	- 244.256 -> 244
+- If the digit dropped is 5 *and* the digit following is not zero, round +1
+	- 4619.53 -> 4620
+- If the digit dropped is 5 *and* the digit following is zero/nothing, round even
+	- 3821.5 -> 3822
+	- 3822.5 -> 3822
+
+#### Arithmetic with Sig Digs
+
+The value that has the least number of decimals determines how many places you should have in your answer.
+
+**Examples:**
+
+13.64 + 0.075 + 67 = 81
+	Value with least number of decimals: 67
+6.78 x 3.906 x 11 = 291
+	Value with least number of decimals: 11
+
+### Moles
+
+Mole - Unit of measurement
+	Created by Amedeo Avogadro
+	1 Mole = 6.02 * 10<sup>23</sup>
+	Symbol: mol (n)
+
+### Molar Mass
+
+**Molar mass** is the mass in grams of a mole of a substance. It's the atomic mass in grams.
+
+It's measured in g/mol.
+#### How to find Molar Mass of an element
+
+The molar mass of an element is just atomic mass. Check your periodic table dumbass.
+
+*Examples:*
+
+| Element | Atomic Mass | Molar Mass |
+| ------- | ----------- | ---------- |
+| H       | 1.01 amu            | 1.01 g/mol           |
+| O       | 16 amu            | 16 g/mol           |
+| C        | 12.01 amu            | 12.01 g/mol           |
+
+#### How to find Molar Mass of a compound
+
+Add up the molar mass of the elements present in the formula.
+
+*Examples:*
+
+| Compound | Molar Mass |
+| ---- | ---- |
+| H<sub>2</sub>O | 2(1.01g/mol) + 16g/mol = 18.02g/mol |
+| CO<sub>2</sub> | 12.01g/mol + 2(16g/mol) = 44.01g/mol |
+| CH<sub>4</sub> | 12.01g/mol + 4(1.01g/mol) = 16.05g/mol |
+
+### Percent Composition
+
+**Percent composition** tells the mass percent of all elements in a molecule.
+
+mass percent = M<sub>Element</sub> / M<sub>Compound</sub> * 100
+
+### Empirical & Molecular Formula
+
+#### Empirical Formula
+
+The **empirical formula** is the lowest **whole number** ratio of elements in a compound. 
+
+#### Molecular Formula
+
+The actual formula of a compound. Useful for knowing the number of atoms of each elements that make up a molecule.
+
+#### Empirical vs. Molecular formulas
+
+| Molecular                  | Empirical      | Lowest Ratio |
+| -------------------------- | -------------- | ------------ |
+| H<sub>2</sub>O             | H<sub>2</sub>O | 2:1          |
+| H<sub>2</sub>H<sub>2</sub> | HO             | 1:1          |
+| C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>                           | CH<sub>2</sub>O               | 1:2:1             |
+### Hydrates
+
+Molecules can have a specific number of water molecules attached. 
+
+They are represented like this:
+
+*MgSO<sub>4</sub> * 7H<sub>2</sub>O - Magnesium Sulphate Heptahydrate*
+
+These water molecules can be removed. 
+
+They are represented like this:
+
+*MgSO<sub>4</sub> - Anhydrous Magnesium Sulphate
+
+The molar mass of a hydrate includes those water molecules.
+
+#### Calculations
+
+*Ex. 50g sample of a Magnesium Sulphate Hydrate which contains 24.4g of MgSO<sub>4</sub>*
+
+*Find the percent of mass for the water*
+
+```
+Subtract the mass of the Magnesium Sulphate from the sample to get the mass of the water.
+50g - 24.4g = 25.6g
+
+Divide the mass of the water by the total mass of the sample.
+25.6 / 50 = 0.512
+
+Multiply by 100 to get the percentage
+0.512*100 = 51.2%
+```
+*Find the value of x in MgSO<sub>4</sub> \* xH<sub>2</sub>O based on the above values.*
+
+
+```
+Molar Mass of MgSO4 = 120.38 g/mol
+
+Find the moles of MgSO4
+
+n = 24.4 / 120.38
+  = 0.20 mols
+
+Find the moles of H2O
+
+Molar Mass of H2O = 18.02
+n = 25.6 / 18.02
+	1.42 mols
+
+Divide by the lowest value out of the 2 to find the ratio.
+
+0.20 / 0.20 = 1
+
+1.42 / 0.20 = ~7
+```
+
+*Therefore, x = 7 & our hydrate is called Magnesium Sulphate Heptahydrate.*
+
+### Stoichiometry
+
+Stoich is using the mole to calculate the amounts of reactants in order to make a certain amount of a product. It's essentially a bunch of ratios and using moles and all this stuff we learned to find those ratios which we can then use when determining the amounts of certain elements/compounds to add in a reaction.
+
+*For example, if we want to find out how much Silver Nitrate we need in order to completely react with 7.1 mols of copper, we can use stoichiometry and mole-to-mole ratios.*
+
+
+```
+First find the balanced reaction equation.
+
+AgNO3 + Cu -> Cu(NO3)2 + Ag <- Represents a complete reaction
+
+We can see that the ratio for Silver Nitrate and Cu is 1:1 as there are no coefficients (if there was, then that would help us determine our ratio).
+
+We can then set up an algebraic equation.
+
+1 mol of Cu / 1 mol of AgNO3 = x/7.1
+
+We can then isolate x & solve
+
+1 * 7.1 = x
+
+x = 7.1
+```
+
+ *Therefore, we need 7.1 moles of Silver Nitrate to fully react with Copper.*
+
+We can also calculate this with the masses of elements/compounds but you will need to convert grams to moles and vice versa before and after calculating.
+
+### Limiting Reactant
+
+In a perfect world, all our reactant would be consumed all the time and we would get our ratios perfectly. Unfortunately, I am (and probably you are) broke and cannot afford funny chemicals that you can consume after a reaction. That's where limiting reactants come in. If one of the elements fully reacts before the other, then it's called the limiting reactant.
+
+We can calculate which is the LR, how much will remain of the other, and how much of a product is produced.
+
+*Example:*
+
+*Aluminum reacts with bromine to form aluminum bromide*. 
+
+*Let's find the Limiting Reactant if we have 2 grams of bromine and 1 gram of aluminum as well as the amount aluminum bromide produced*
+
+```
+First we need to create a balanced equation for the reaction.
+Al + 3Br -> AlBr3
+
+Define your variables
+
+mAl = 1g
+MAl = 26.98 g/mol
+mBr = 2g
+MBr = 79.9 g/mol
+
+Convert grams to mols
+
+nAl = 1/26.98
+	= 0.037 mols
+
+nBr = 2/79.9
+	= 0.025 mols
+
+Use mole ratios to find amount of product based on each reactant
+
+Al:
+1/1 = nAlBr3/0.037
+nAlBr3 = 0.037mols
+
+Br:
+1/3 = nAlBr3/0.025
+nAlBr3 = 0.0083333...
+
+Because the amount of product produced by aluminum's moles are higher, bromine is the limiting reactant.
+
+Let's convert the product produced into grams
+
+MAlBr3 = 266.694 g/mol
+mAlBr3 = 0.0083 * 266.694
+	   = 2.2136g
+```
+
+### Percentage Yield
+
+It's just the percentage of what was produced from a reaction and what you should theoretically get from a reaction. Tells you how close your yield was to the theoretical yield.
+
+**Theoretical Yield:** The amount you should theoretically produce of a product via a reaction. Calculated using mole ratios.
+
+**Actual Yield:** The amount of product produced in an experiment. Differs because of sources of error and human error.
+
+To get percent yield, you divide the actual yield by the theoretical yield and multiply by 100.
+
+*Example: I should theoretically get 2 grams of a product but only get 1.5 grams.*
+
+```
+Divide the actual yield by the theoretical yield.
+1.5/2 = 0.75
+
+Multiply by 100
+0.75 * 100 = 75%
+
+Therefore, my percentage yield for this reaction was 75%
+```
+### Conventions
+
+- n - mol
+- N - Particles (either molecules or atoms)
+	- Particles of Fe -> Atoms of Fe
+	- Particles of H<sub>2</sub>O -> Molecules of H<sub>2</sub>O
+- N<sub>A</sub> - Avogadro's constant
+	N<sub>A</sub> = 6.02 * 10<sup>23</sup>
+- m - Mass (g)
+- M - Molar mass (g)
+
+### Equations
+
+*Use algebra to find values of variables based on what is given*
+
+n = N/N<sub>A</sub>
+n = m/M
+mass percent = M<sub>Element</sub> / M<sub>Compound</sub> * 100
+
+## Solutions
+
+Solutions are homogeneous, transparent/clear, and contain more than 1 type of particle. While they are primarily found as liquids, they can be solids or gases.
+
+*Examples: Salt water, Air, Copper (II) Chloride*
+
+All solutions contain a solute (the substance dissolved) and solvent (substance that the solute is dissolved in). In aqueous solutions, water is the solvent.
+
+*Example: In salt water, salt is the solute, water is the solvent.*
+
+Solutes and solvents can act like each other. 
+
+Miscible liquids for example are liquids that can be combined in any proportion and thus both liquids can act like a solute and solvent.
+
+The opposite of miscible liquids are immiscible liquids which do not dissolve in one another and therefore, there's no solute or solvent.
+
+Solvents come in many states of matter:
+
+| Solute/Solvent | Solid | Liquid | Gas |
+| -------------- | ----- | ------ | --- |
+| Solid          | Carbon in iron (steel)      | Sugar in water       | Dust particles in air    |
+| Liquid         | Mercury in silver (dental fillings)      | Acetic acid in water (vinegar)       | Water vapor in air (humidity)    |
+| Gas               | Hydrogen gas dissolved in metal      | Carbon dioxide in water (carbonated water)       | Oxygen in nitrogen (atmosphere)    |
+
+### Solubility
+
+**Solubility** is the ability of an ionic compound to dissolve in water. Technically all solutions are soluble to some degree. It's a relative term and is therefore not binary. It's more accurate to refer to it as a degree rather than a dichotomous characteristic. 
+
+The threshold for solubility is 0.1 - 1 gram per 100mL of water.
+
+If it's soluble, more than 1 gram of solution can be dissolved in 100mL of water.
+
+If it's insoluble, the solubility is less than 0.1g/100mL
+
+If it's slightly soluble, the solubility is between 0.1g/100mL and 1g/100mL
+
+![](Solubility_Scale.png)
+
+You can find solubility in 2 ways. Either by looking it up in the Merck index (booooo) and by dissolving the solute in the solvent until it no longer dissolved (yayyy)
+
+### Saturation
+
+Saturation is how much solute can dissolve in a solvent. There's 3 classifications.
+
+Goes from least concentrated to most.
+
+| Classification     | Description                 |
+| ------------------ | --------------------------- |
+| Unsaturated        | More solute can dissolve    |
+| Saturated  | No more solute can dissolve |
+| Supersaturated                   | More than the maximum solute                            |
+Supersaturated solutions are unstable and crystals begin to form.
+
+### Factors of Rate of Dissolving and Solubility
+
+The rate of dissolving has 3 factors:
+- Temperature - Higher temperature = More collisions = Higher rate of dissolving
+- Agitation - More agitation = Solvent in contact with undissolved solute = Higher rate of dissolving
+- Particle Size - Smaller particles = More surface area = Higher rate of dissolving
+
+Solubility has 3 factors:
+- Temperature
+	- Solids - Provides energy to break bonds = Higher solubility
+	- Liquids - Already have required energy = No difference
+	- Gas - Already have lots of energy and need to lose it to dissolve = Lower solubility
+- Pressure - Pressure pushes gas molecules closer and more likely to interact with solvent = Higher solubility
+- Particle Size - Small molecules = Greater surface area = Higher solubility
+
+#### Solubility Curves
+
+The relationship between the solubility and temperature can be represented in a solubility curves.
+
+![](Solubility_Chart.png)
+
+### Concentration
+
+We can use concentration to represent the amount of solute in a solution. 
+
+A concentrated solution will have a large number of particles in a solvent.
+
+A diluted solution will have a small number of particles in a solvent.
+
+**Concentration can be expressed as:**
+- Percentage concentration
+- PPM or PPB concentration
+- Molar concentration
+
+#### Percent Concentration
+
+The percentage between the solute and solution.
+
+There are 3 versions of the equation but they're all functionally the same.
+
+Weight %:
+mass solute(g)/mass solution(g) x 100
+
+Weight Volume %:
+mass solute(g)/volume solution(mL) x 100
+
+Volume %: 
+volume solute(mL)/volume solution(mL) x 100
+
+#### PPM and PPB
+
+For extremely diluted solutions, we can instead multiply by 10<sup>6</sup> (Parts Per Million) and 10<sup>9</sup> (Parts Per Billion).
+
+#### Molar Concentration
+
+The number of moles of solute dissolved in 1L of solution. 
+
+Concentration = number of moles of solute (mol) / volume of solute (L)
+
+c = n/v
+
+Molar concentration's unit is M
+
+\[] indicate the compound is a concentration
+
+*Example:*
+*\[HCL] = 0.675M*
+
+### Dilutions
+
+When more solvent is added to a stock solution which leads to a decreased volume but greater volume.
+
+We can use algebra to determine the solvent required for a specific dilution.
+
+C<sub>i</sub> = concentration of solution
+V<sub>i</sub> = volume of solution
+
+C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub>
+
+*Example:*
+
+```
+I want to create 100mL of a 5M solution from a 12M stock solution.
+C1 = 12
+V1 = ?
+C2 = 5
+V2 = 0.1
+
+12V1 = 5(0.1)
+
+V1 = (5*0.1)/12
+V1 = 0.041666L = 41.7mL
+```
+
+#### Net Ionic Equations
+
+Regular **chemical equations** are written as if all substances are molecular when they could be ionic.
+
+*Example:*
+*HCl<sub>(aq)</sub>+NaOH<sub>(aq)</sub> -> NaCl<sub>(aq)</sub>+H<sub>2</sub>O<sub>(l)</sub>*
+
+**Ionic equations** have substances that exist as ions (aka aqueous/dissociate in water) written in ionic form.
+
+*Example:*
+H<sup>+</sup><sub>(aq)</sub> + Cl<sup>-</sup><sub>(aq)</sub> + Na<sup>+</sup><sub>(aq)</sub>+OH<sup>-</sup><sub>(aq)</sub> -> Na<sup>+</sup><sub>(aq)</sub> + Cl<sup>-</sup><sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub>
+
+**Net ionic equations** are ionic equations with the spectator ions removed.
+
+**Spectator ions** are ions that don't form a new substance.
+
+*Example:*
+*H<sup>+</sup><sub>(aq)</sub> + OH<sup>-</sup><sub>(aq)</sub> -> H<sub>2</sub>O<sub>(l)</sub>*
+
+Net ionic equations essentially represent when a liquid, gas or solid is formed from aqueous products.
+
+We can use a solubility table to see if a compound will become a precipitate.
+
+![](Solubility_Table.png)
+
+### Acids and Bases
+
+#### Properties of Acids vs Bases
+
+When reacted together, produces a salt and water.
+##### Acids
+- Produces hydrogen ions in water
+- Corrodes metal
+- Electrolytes
+- pH less than 7
+- Turns blue litmus paper red
+- Turns bromothymol blue yellow
+- Phenolphthalein stays clear
+- Sour
+- Wet
+
+###### Examples:
+- HCl
+- HNO<sub>3</sub>
+- H<sub>3</sub>PO<sub>4</sub>
+##### Bases
+- Produces hydroxide polyatomic ions in water
+- Electrolytes
+- pH greater than 7
+- Turns red litmus paper blue
+- Bromothymol blue stays blue
+- Turns phenolphthalein pink
+- Bitter
+- Slippery
+
+###### Examples:
+- NaOH
+- Sodium Hydroxide
+- Cleaners
+- Soap
+
+#### Arrhenius Theory of Acids/Bases
+
+An Arrhenius acid is a substance that dissociates in water to produce hydrogen ions.
+
+*Example:*
+*HCl<sub>(aq)</sub> -H<sub>2</sub>O-> H<sup>+</sup><sub>(aq)</sub> + Cl<sup>+</sup><sub>(aq)</sub>*
+
+An Arrhenius base is a substance that dissociates in water to produce hydroxide ions.
+
+*Examples:*
+*KOH<sub>(aq)</sub> -H<sub>2</sub>O-> K<sup>+</sup><sub>(aq)</sub> + OH<sup>-</sup><sub>(aq)</sub>*
+
+##### Exceptions
+
+Some compounds like ammonia (NH<sub>3</sub>) would act like a base even though it does not possess a hydroxide ion.
+
+###### Bronsted-Lowry Theory
+
+This theory states:
+1. An acid is a substance that donates a proton (H<sup>+</sup> ion) to a base.
+2. A base is a substance that accepts a proton (H<sup>+</sup> ion) from an acid.
+
+An acid/base reaction involves the transfer of a proton.
+
+*Example:*
+*HCl + H<sub>2</sub>O -> H<sub>3</sub>O + Cl<sup>+</sup>*
+
+A **conjugate acid-base pair** are 2 substances related to the transfer of a proton.
+
+A **conjugate base** is the particle that is left over when a proton is removed from the acid
+
+A **conjugate acid** is the particle that results when the base gains the proton.
+
+##### Strong vs. Weak Acids
+| Strong                          | Weak                  |
+| ------------------------------- | --------------------- |
+| Dissociates completely in water | Partially dissociates |
+| More hydronium ions             | Fewer hydronium ions                      |
+| Stronger acid                   | Weaker acid                      |
+###### The 6 Strong Acids
+1. HCl
+2. HBr
+3. HI
+4. HNO<sub>3</sub>
+5. H<sub>2</sub>SO<sub>4</sub>
+6. HClO<sub>4</sub>
+
+##### Protic Acids
+
+| Type | Description | Examples |
+| ---- | ---- | ---- |
+| Monoprotic | Acids with only 1 hydrogen atom | HCl, HNO<sub>3</sub> |
+| Diprotic | Acids with 2 hydrogen atoms. It can therefore dissociate twice. | H<sub>2</sub>SO<sub>4</sub> |
+| Triprotic | Acids with 3 hydrogen atoms. It can therefore dissociate thrice. | H<sub>3</sub>PO<sub>4</sub> |
+Triprotic > Diprotic > Monoprotic > Base
+
+##### Strong vs Weak Bases
+
+Strong bases are 100% dissociated in water.
+
+Group 1 and 2 hydroxides are strong bases.
+
+Weak bases aren't 100% ionized in water.
+
+#### pH
+
+The "power of hydrogen ion"
+
+The concentrations of H<sub>3</sub>O ions range from roughly 10M in a strong acid to 10<sup>-15</sup>M for a strong base. Some guy named Soren Sorensen made the pH scale to make it simpler. It measures the strengths of acids/bases.
+
+pH is defined as -log\[H<sup>+</sup>]
+
+We define pH as -log\[H<sub>3</sub>O<sup>+</sup>]
+
+*Example:*
+*If the concentration of H<sub>3</sub>O<sup>+</sup> in neutral water at 25C is 1\* 10<sup>-7</sup>M, what is the pH?*
+
+```
+pH = -log(1*10^-7)
+   = 7
+```
+
+*Let's say we now know the pH of Coke is 3.12 and want to find the concentration of Hydrogen ions.*
+
+```
+pH = -log[H+]
+
+-pH = log[H+]
+
+Take the antilog (10^x) of both sides. 
+
+[H+] = 10^-pH
+
+Plug in the pH of Coke.
+
+10^-3.12 = 7.59*10^-4M
+```
+
+## Gas
+
+### States of Matter
+
+| State   | Description | Example |
+| ------- | ----------- | ------- |
+| Solids  | Tightly packed particles - Form crystal lattice structures - Have a definite shape/volume - Affected by gravity - Little to no movement of particles            | Salt        |
+| Liquids | Loosely packed particles relative to solids - Takes the shape of container - Moves with vibrational & rotational energy - Affected by gravity            | Water        |
+| Gases        | Particles move separately from one another - Will bump into each other - Moves with vibrational, rotational, and translation energy - Flow in all directions - Not affected by gravity - Expands to fill space in container            | Helium        |
+### Kinetic Molecular Theory of Gases
+
+The **kinetic molecular theory of gases** makes the assumptions:
+1. Gas particles have essentially no volume
+2. Gas particles have no attraction or repulsion to each other
+3. Gas particles have rotational, vibrational , and translational movement.
+4. Their kinetic energy is directly related to temperature
+5. All of these assumptions are descriptive of an ***ideal gas***
+
+**No gas is an ideal gas but we pretend there are for the sake of calculations**
+
+There are 3 factors that affect gases:
+1. Pressure
+2. Temperature
+3. Volume
+
+### Pressure
+
+The amount of force applied to a unit area of surface. We use 3 different units to represent pressure.
+
+**Conversions:** 1 atm (atmosphere) = 760 torr = 101.3 kPa
+
+#### Boyle's Law
+
+This equation represents the relationship between pressure and volume. 
+
+V<sub>1</sub>P<sub>1</sub>=V<sub>2</sub>P<sub>2</sub>
+
+In order for this equation to work, the temperature needs to remain constant.
+
+P should preferably be in kPa.
+
+### Temperature
+
+Temperature is well... *the temperature* of the gas. Gases expand when the temperature increases. Temperature can be represented in 3 units:
+1. Kelvin (yayyyyy)
+2. Celsius (yayyyyy)
+3. Fahrenheit (boooooooooooo) 
+#### Kelvin Scale
+
+Some French guy named Jacques Charles realized that all gas particles stop moving at -273C. Therefore, at -273C, the volume of a gas is 0. Lord Kelvin used Charles' reasoning to create *drum roll please*... **the Kelvin Scale**.
+
+It's on the same scale as Celsius so the conversion is: C + 273
+
+#### Charles' Law
+
+The volume of a fixed mass of gas is proportional to its Kelvin temperature. If the temperature changes, the volume will change. This relationship is represented by this equation:
+
+V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>T<sub>2</sub>
+
+In order for this equation to work, the pressure needs to remain constant.
+
+T should preferably be in Kelvin.
+
+### Gay-Lussac's Law
+
+Pressure and temperature also have a relationship at a constant volume.
+
+It's represented using this equation:
+
+P<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>/T<sub>2</sub>
+
+### Combined Gas Law
+
+All of these laws are connected and can be combined into one equation:
+
+P<sub>1</sub>V<sub>1</sub>/T<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>/T<sub>2</sub>
+
+### Dalton's Law of Partial Pressures
+
+The total pressure of a mix of gases is the sum of the pressure of each individual gases
+
+P<sub>total</sub> = P<sub>1</sub> + P<sub>2</sub> + ........ + P<sub>n</sub>
+### STP and SATP
+
+#### STP
+
+Standard temperature and pressure fulfills these conditions:
+- Temperature: 273K
+- Pressure: 1 atm
+- 1 mole of gas occupies 22.4 litres (*ideal gas constant*)
+#### SATP
+
+Standard Ambient Temperature and Pressure fulfills these conditions:
+- Temperature: 25C
+- Pressure: 100kPa
+
+### Ideal Gas Law
+
+States that pressure times volume is equal to the number of moles times universal gas constant and temperature.
+
+It can represented as: PV = nRT
+
+R is a constant and is equal to approx 8.31.
+
+T should be in Kelvin
+
+n should always be converted to moles
+
+V should be in L
+
+P should be in kPa
