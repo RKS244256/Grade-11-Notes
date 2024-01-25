@@ -320,7 +320,7 @@ Therefore, we write it as this:
 It gets weird after 3p as 3d actually goes after 4s and not 3s. It continues like that for the rest of the periodic table so keep that in mind.
 
 Here's the exact order.
-1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3p<sup>6</sup> 3s<sup>2</sup> 4s<sup>2</sup> 4p<sup>6</sup>5s<sup>2</sup> 3d<sup>10</sup> 5p<sup>6</sup> 6s<sup>2</sup> 4d<sup>10</sup> 6p<sup>6</sup> 7s<sup>2</sup> 5d<sup>10</sup> 4f<sup>14</sup> 7p<sup>6</sup>
+1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup> 4p<sup>6</sup> 3d<sup>10</sup> 5s<sup>2</sup> 4d<sup>10</sup> 5p<sup>6</sup> 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>10</sup> 6p<sup>6</sup> 7s<sup>2</sup> 5f<sup>14</sup> 6d<sup>10</sup> 7p<sup>6</sup>
 
 Let's try something a bit harder.
 
@@ -344,7 +344,7 @@ The last orbital is the position of the atom in the periodic table. Eg. Lithium'
 ### Orbital Diagrams
 
 Example:
-![[Lithium_Orbital_Diagram.png]]
+![](Lithium_Orbital_Diagram.png)
 
 Each box represents 1 orbital and the arrows are electrons. The direction of the arrows represent the relative spin of the electron.
 
@@ -487,12 +487,12 @@ The more negative the electron affinity value, the higher an atom's affinity is 
 
 As you go down groups, EA decreases. This is because each atom is larger than the last above & an electron would be further away from the atom's nucleus. The farther way from the nucleus, the force of attraction is weaker and therefore, EA decreases.
 
-As you move across a period, EA increases. THis is because the amount of effective nuclear charge increases (more protons,) the atomic radius gets smaller and therefore, a greater attraction for electrons. Since Halogens have the most valence electrons without a full shell, they want to gain electrons.
+As you move across a period, EA increases. This is because the amount of effective nuclear charge increases (more protons,) the atomic radius gets smaller and therefore, a greater attraction for electrons. Since Halogens have the most valence electrons without a full shell, they want to gain electrons.
 
 Since Noble Gases have full valence shells, they do not have an EA.
 #### Electronegativity
 
-Electronegativity is the relative ability of a bonded atom to attract shared electrons. Atoms with relitvely high EN tend to pull bonded electrons closer to their nuclei. This concept dictates the nature of bonds that form and the properties of the compounds which contain those bonds. 
+Electronegativity is the relative ability of a bonded atom to attract shared electrons. Atoms with relatively high EN tend to pull bonded electrons closer to their nuclei. This concept dictates the nature of bonds that form and the properties of the compounds which contain those bonds. 
 
 Smaller atoms have higher EN values because their nuclei would be closer to bonded electrons. 
 
@@ -611,7 +611,7 @@ H--Cl*
 
 *Cl has a strong attraction to shared electrons and creates a partial negative pole.*
 
-*This is example is a dipole (one end is postivies and the other end is negative.)*
+*This is example is a dipole (one end is positive and the other end is negative.)*
 
 ![](Dipole_Diagram.png)
 
@@ -621,7 +621,7 @@ If you remember trends, as you go across periods, EN increases whilst it decreas
 
 The difference of EN can help us know what type of bonding occurs between 2 atoms. 
 
-Ionic compounds have an EN difference of 3.3-1.8
+Ionic compounds have an EN difference of 1.8-3.3
 
 Polar Covalent compounds have an EN difference of 0.4-1.799
 
@@ -678,6 +678,8 @@ There are 3 types:
 ### Hydrogen Bonding
 
 Hydrogen bonds only happen between H and O, N, or F. They are the strongest intermolecular forces.
+
+The Hydrogen's nucleus is small and the other atoms are very electronegative. This causes a strong attraction/relatively strong bond.
 
 It's the force that holds together water.
 
@@ -1565,7 +1567,10 @@ Plug in the pH of Coke.
 
 10^-3.12 = 7.59*10^-4M
 ```
+*I forgot about bases so I'll just put my teacher's notes here:*
 
+![](Bases_pH_1.png)
+![](Bases_pH_2.png)
 ## Gas
 
 ### States of Matter
