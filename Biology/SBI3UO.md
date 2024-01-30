@@ -232,14 +232,14 @@ For when love finds a way and two species somehow still manage to form a zygote.
 ### Life Cycles
 
 #### Basidiomycota
-![[Basidiomycota_Life_Cycle.png]]
+![](Basidiomycota_Life_Cycle.png)
 
 #### Bryophyte
 ![](Bryophyte_Life_Cycle.png)
 #### Gymnosperm 
 ![](Gymnosperms_Life_Cycle.png)
 #### Pteridophyte
-![[Pteridophyte_Life_Cycle.png]]
+![](Pteridophyte_Life_Cycle.png)
 
 #### Angiosperm
 ![](Angiosperm_Life_Cycle.png)
