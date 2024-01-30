@@ -137,13 +137,13 @@ When a portion of a chromosome is lost (usually caused by crossing over).
 
 When a gene sequence is repeated more than normal within one or more chromosomes. Caused by crossing over. More harmless than the others but there's a tolerance.
 
-![[Fragile_X.png]]
+![](Fragile_X.png)
 
 ##### Inversion
 
 When a gene segment becomes free from the chromosome and is reinserted in the reversed order. Alters gene activity but does not alter an individual phenotypically.
 
-![[Inversion.png]]
+![](Inversion.png)
 
 ##### Translocation
 
