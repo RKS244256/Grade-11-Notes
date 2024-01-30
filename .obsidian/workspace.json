@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f28858a41b5bc87",
+        "id": "a072b280cc3a20ad",
         "type": "tabs",
         "children": [
           {
-            "id": "5549c4734356bbfe",
+            "id": "2aace213c9fb5340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/SCH3U0.md",
+                "file": "Biology/SBI3UO.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/SCH3U0.md",
+                "file": "Biology/SBI3UO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/SCH3U0.md",
+                "file": "Biology/SBI3UO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/SCH3U0.md"
+                "file": "Biology/SBI3UO.md"
               }
             }
           },
@@ -151,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -160,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,28 +177,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036005a1a9781fb7",
+  "active": "2aace213c9fb5340",
   "lastOpenFiles": [
-    "Chemistry/Mass_Spectrometer_Diagram.png",
-    "Chemistry/Standard_Notation.png",
     "Biology/SBI3UO.md",
-    "Biology/Pedigree.png",
-    "Pasted image 20230913192617.png",
-    "Biology/Chromosome_Pair.png",
-    "Biology/Pasted image 20230911103835 1.png",
-    "Pasted.md",
-    "Law/CLU3M0.md",
+    "Biology/Bryophyte_Life_Cycle.png",
+    "Biology/Angiosperm_Life_Cycle.png",
+    "Biology/Gymnosperms_Life_Cycle.png",
+    "Biology/Pteridophyte_Life_Cycle.png",
+    "Biology/Basidiomycota_Life_Cycle.png",
+    "Biology/Inversion.png",
+    "Biology/Fragile_X.png",
+    "Pasted image 20240128201741.png",
+    "Pasted image 20240128201740 1.png",
+    "Pasted image 20240128201740.png",
     "Chemistry/SCH3U0.md",
+    "Law/CLU3M0 - Intro Stuff.md",
+    "Law/CLU3M0 - Chapter 4 - 9.md",
+    "Law/Freedom Of Expression.md",
+    "Chemistry/Multi_Polyatomic_Lewis_Structure.png.~tmp",
+    "Chemistry/Ionic_Lewis_Diagram.jpeg.~tmp",
+    "Untitled.md",
+    "Pasted.md",
     "Law",
     "Chemistry",
     "Biology",
     "Science/Physics/Optics_SNC2D0.md",
-    "Science/Physics/Concave_Mirror_Table.png",
-    "Science/Physics/ElectroMagnetic_Spectrum.png",
     "History/WW2/WW2_CHC2D0.md",
-    "History/WW2/Auschwitz.jpeg",
-    "History/WW2/Jewish_Ghetto.jpg",
-    "Science/Physics/Wave.png",
     "Science/Physics",
     "Science/Biology/Pneumonia.md",
     "Science/Biology/Biology_SNC2D0.md",
@@ -211,8 +216,6 @@
     "History/README.md",
     "Science/README.md",
     "History/1930",
-    "History/Untitled",
-    "History",
     "Prokaryotes-Eukaryotes.jpg.md",
     "Science/Chemistry_SNC2D0.md",
     "Chemistry.md",
